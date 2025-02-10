@@ -20,6 +20,7 @@ with if statement first).
 Note* I accept it if it is not captilized and if the current and convert is the same,
 I print the same thing.
 '''
+
 #Asking for the current scale until they choose a correct one.
 current = input("Which scale are you converting from? (C/F/K) ")
 current = current.lower()
